@@ -31,15 +31,9 @@ The study analyzes key factors such as **road conditions, vehicle types, and wea
 
 ---
 
-## 📜 Citation  
-If you use this research, please cite:  
-
-*Mane, Dipti. "Expressway Crash Severity Prediction." (2025).*  
-
----
-
 ## 📬 Contact  
 - **Name:** Dipti Mane  
 - **Email:** diptimane1703@gmail.com  
 - **LinkedIn:** [linkedin.com/in/dipti-mane](https://www.linkedin.com/in/dipti-mane)  
 - **GitHub:** [github.com/DiptiMane17](https://github.com/DiptiMane17)  
+
